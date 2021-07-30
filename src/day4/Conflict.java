@@ -6,5 +6,7 @@ public class Conflict {
 //This is my final version
     //I can type anything what I want
   //This is collection type
-//This is the change collection2
+//THIS IS THE CUSTOM OUTPUT FROM
+    //MY RESOLVING CONFLICT
+    //GOOD JOB EVERYONE
 }
